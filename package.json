@@ -1,1 +1,22 @@
 
+{
+  "name": "mocha-chai-test",
+  "version": "1.0.0",
+  "description": "test application",
+  "main": "test.js",
+  "author": "Ritu Gupta",
+  "keywords": [
+    "test-app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ruhanika/firstRepo"
+  },
+ 
+  "dependencies": {
+        "mocha": "~3.0.2",
+         "chai": "~3.5.0"
+   
+  },
+  "license": "Schedule Once: All rights reserved."
+}
